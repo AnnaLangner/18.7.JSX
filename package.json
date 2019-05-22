@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/AnnaLangner/18.7.JSX#readme",
   "dependencies": {
+    "babel-standalone": "^6.26.0",
     "mkdirp": "^0.5.1",
     "normalize.css": "^8.0.1",
     "superagent": "^3.7.0"
