@@ -30,9 +30,9 @@ var App = React.createClass({
 		return (
 			<div className={'app'}>
 				<h1>Application for adding contacts</h1>
-				<p className={'label'}></p>
+				<p className={'label'}/>
 				<Contacts items={contacts}/>
-				<p className={'label'}></p>
+				<p className={'label'}/>
 				<ContactForm contact={contactForm}/>
 			</div>
 			)
